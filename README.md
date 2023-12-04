@@ -66,6 +66,6 @@ The test for the classes are in the [test_models](./tests/test_models/) folder.
 
 ## Authors
 
--Abdellatif Gasim /n
--Bratipah Kioko
+- Abdellatif Gasim
+- Bratipah Kioko
 
